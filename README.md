@@ -1,4 +1,4 @@
-# discord_tarnslation
+# discord_tarnslator
 
 ## First you npm discord.js
 ```
