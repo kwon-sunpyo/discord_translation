@@ -11,4 +11,4 @@ npm install google-translate-api
 
 #### First time you use a ko, en, th
 
-##### if you want another langguage, you go to /trans folder 
+##### if you want another language, you go to /trans folder 
